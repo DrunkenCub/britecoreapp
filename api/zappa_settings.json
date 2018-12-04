@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "profile_name": "default",
+        "project_name": "api",
+        "runtime": "python3.6",
+        "aws_region": "us-east-2",
+        "s3_bucket": "zappa-chm3lxo93"
+    }
+}

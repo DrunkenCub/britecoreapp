@@ -34,4 +34,4 @@ from api.resources import blueprint  # noqa: E402
 factory.register(blueprint)
 
 
-__all__ = ['Factory', 'HelloWorld']
+__all__ = ['Factory', 'HelloWorld', 'Risk']
